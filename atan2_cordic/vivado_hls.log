@@ -1,0 +1,10 @@
+INFO: [HLS 200-10] Running 'C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'leo870823' on host 'desktop-t3r8mjh' (Windows NT_amd64 version 6.2) on Fri Dec 25 20:40:31 +0800 2020
+INFO: [HLS 200-10] In directory 'C:/Users/leo870823/Desktop/MSOC/HLx_Examples-master/Math/atan2_cordic'
+Sourcing Tcl script 'C:/Users/leo870823/Desktop/MSOC/HLx_Examples-master/Math/atan2_cordic/hls_atan2_prj/solution1_cordic/cosim.tcl'
+INFO: [HLS 200-10] Opening project 'C:/Users/leo870823/Desktop/MSOC/HLx_Examples-master/Math/atan2_cordic/hls_atan2_prj'.
+INFO: [HLS 200-10] Opening solution 'C:/Users/leo870823/Desktop/MSOC/HLx_Examples-master/Math/atan2_cordic/hls_atan2_prj/solution1_cordic'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 2.5ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z045-ffg900-2'
+INFO: [COSIM 212-47] Using XSIM for RTL simulation.
+INFO: [COSIM 212-14] Instrumenting C test bench ...
