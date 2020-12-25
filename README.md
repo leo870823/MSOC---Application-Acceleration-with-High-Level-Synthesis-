@@ -39,20 +39,6 @@ This repository is for the co-teaching course "Multimedia System-on-Chip Design"
 * [Project Name2](https://github.com/mediaic/Jini-Intelligent-Computing-Lab2/) , Author, Description of the project
 * ...
 
-<!-- USAGE EXAMPLES -->
-## Usage
-1. fpga board setup
-
-We use **Xilinx ZedBoard Evaluation and Development Kit** to evaulate this project
-
-2. run makefile
-```sh
- make .
-```
-3. python test
-```sh
- python FIRN11MAXI.py
-```
 
 
 <!-- CONTRIBUTING -->
