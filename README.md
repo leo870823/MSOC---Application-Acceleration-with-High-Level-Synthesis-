@@ -34,10 +34,9 @@ This repository is for the co-teaching course "Multimedia System-on-Chip Design"
 
 
 ## Project Category
-* [Jini-Intelligent-Computing-Lab2](https://github.com/mediaic/Jini-Intelligent-Computing-Lab2/)
-* [Project Name1](https://github.com/mediaic/Jini-Intelligent-Computing-Lab2/) , Author, Description of the project
-* [Project Name2](https://github.com/mediaic/Jini-Intelligent-Computing-Lab2/) , Author, Description of the project
-* ...
+* [atan2_cordic](https://github.com/leo870823/MSOC---Application-Acceleration-with-High-Level-Synthesis-/tree/master/atan2_cordic)
+* [fft_single  ](https://github.com/leo870823/MSOC---Application-Acceleration-with-High-Level-Synthesis-/tree/master/fft_single) 
+* [squared_difference](https://github.com/leo870823/MSOC---Application-Acceleration-with-High-Level-Synthesis-/tree/master/squared_difference_accumulate) 
 
 
 
